@@ -1,0 +1,57 @@
+header {
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+
+
+nav {
+    background-color: rgb(112, 84, 31);
+
+    font-weight: bold;
+}
+
+nav a {
+    margin: 0px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+nav a:hover {
+    color: rgb(120, 116, 124);
+    font-size: 22px;
+}
+
+nav footer {
+    /* height: 40px; */
+    text-align: center;
+    background-color: #725f5d;
+    color: white;
+    /* margin: 20px; */
+    padding: solid rgb(224, 58, 58);
+}
+
+.restuarant-image {
+    width: 60%;
+}
+
+div {
+    background-color: rgb(230, 224, 224);
+    padding: 20px;
+    border: 40px solid rgb(245, 240, 240);
+}
+
+table {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ46Hv1O7m0a_zBOMXZa6yb5M--3zbIh7N2Q&s);
+    text-align: center;
+    background-position: center;
+}
+
+.box {
+    background-color: #f3efee;
+    border: 10px solid white;
+    padding: 20px;
+}
